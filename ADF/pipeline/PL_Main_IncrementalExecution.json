@@ -1,6 +1,7 @@
 {
 	"name": "PL_Main_IncrementalExecution",
 	"properties": {
+		"description": "This pipeline is to load data incrementally from source to target and by reading configuration table",
 		"activities": [
 			{
 				"name": "LKP_ConfigurationTable",
